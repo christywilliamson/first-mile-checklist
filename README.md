@@ -1,3 +1,5 @@
+<h1>First Mile Checklist</h1>
+
 <p><strong><i>Welcome to the cohort! You MUST complete ALL 5 action items listed below by the First Mile Deadline</i></strong><strong><i>,</i></strong><strong><i> in order to be eligible to continue with the cohort.&nbsp;</i></strong></p>
 <h4><strong><i></i></strong><span style="color: #3598db;"><strong>1. Complete all First Mile assignments on time.</strong></span></h4>
 <ul>
